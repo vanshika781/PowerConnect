@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PowerConnect/static/css/main.d3f6ff81.css",
+    "main.js": "/PowerConnect/static/js/main.8c3ca29b.js",
+    "static/js/453.d1efc199.chunk.js": "/PowerConnect/static/js/453.d1efc199.chunk.js",
+    "index.html": "/PowerConnect/index.html",
+    "main.d3f6ff81.css.map": "/PowerConnect/static/css/main.d3f6ff81.css.map",
+    "main.8c3ca29b.js.map": "/PowerConnect/static/js/main.8c3ca29b.js.map",
+    "453.d1efc199.chunk.js.map": "/PowerConnect/static/js/453.d1efc199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3f6ff81.css",
+    "static/js/main.8c3ca29b.js"
+  ]
+}
